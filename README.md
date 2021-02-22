@@ -1,0 +1,2 @@
+# AI-internship
+shashwath foundations
